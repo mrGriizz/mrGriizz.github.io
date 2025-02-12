@@ -1,1 +1,1 @@
-# Del Bonnell's Website for CS1030
+# Del's Website for CS1030
